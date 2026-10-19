@@ -560,7 +560,7 @@ HTML = """
     <h2>💌 About Us</h2>
 
     <p>
-        Welcome to our personal love story! We enjoy taking pictures,
+        Welcome to our personal life! We enjoy taking pictures,
         creating memories, making videos, and listening to music.
         This website is our little space to keep our favorite moments
         together in one place.
