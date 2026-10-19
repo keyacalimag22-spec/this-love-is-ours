@@ -15,9 +15,7 @@ app.config["MAX_CONTENT_LENGTH"] = 50 * 1024 * 1024
 # -------------------------------
 
 BASE_FOLDER = Path(__file__).parent
-FOLDER = BASE_FOLDER / "portfolio_files"
-FOLDER.mkdir(exist_ok=True)
-
+FOLDER = BASE_FOLDER
 DATA = FOLDER / "gallery.json"
 
 IMAGE_TYPES = {".jpg", ".jpeg", ".png", ".gif", ".webp"}
